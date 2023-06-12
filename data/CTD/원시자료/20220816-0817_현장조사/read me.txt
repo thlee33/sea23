@@ -1,0 +1,30 @@
+연구원님께,
+아래 내용을 분석에 참고 하시기 바랍니다.
+
+CTD 모델명/ 제조사: SBE 19 plus/ sea bird사 
+
+20220816-0817_CTD 폴더에 포함되어 있는 자료 안내 
+*.hex: rawdata from CTD unit
+*.cnv: converted CTD rawdata
+*.jpg: vertical profile capture figure
+*.csv: mean data in 1m
+
+1m_mean data: 1m 평균자료 (csv자료)
+header(컬럼이름) 설명
+sstn: station number
+sdep: Depth [m]
+stmp: Temperature [deg C]
+ssal: Salinity, Practical [PSU]
+sden: Density [kg/m^3]
+spHa: ph: pH
+stub: Turbidity, WET Labs ECO [NTU]
+sflu: Fluorescence [mg/m^3]
+ssig: Sigma-t [kg/m^3 ]
+oxys: Oxygen [% saturation]
+oxyc: Oxygen [ml/l]
+
+※ cnv나 csv는 엑셀프로그램을 열고, 드래그앤 드랍으로 열수있습니다.
+문의사항이 있으시면 언제든지 아래 이메일 또는 카톡으로 연락부탁드립니다.
+
+전남대학교 서호영교수님 연구실 추서휘
+E-mail: shchu1993@gmail.com  Mobile: +82-10-5195-3567
